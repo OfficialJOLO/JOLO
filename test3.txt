@@ -1,1 +1,1 @@
-test3 - Commit for conflict test
+test3 -- Commit for conflict test
